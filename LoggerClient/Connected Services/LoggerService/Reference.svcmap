@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3231cf69-5496-4342-a393-c97656cfd6f8" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/LogServer.Service/LoggerService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="2c52ed4c-ae57-45fa-97ab-1c5c103e1a7f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LogServer.Service/LoggerService/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="e5c475cf-027d-4b30-afd3-0fd501af241c" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LogServer.Service/LoggerService/?disco" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="75303e8e-3668-48d7-9fb2-c6adb2e1adf1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LogServer.Service/LoggerService/?xsd=xsd1" />
+    <MetadataFile FileName="LoggerService.wsdl" MetadataType="Wsdl" ID="a913fe4f-50ff-4043-847b-6527d909ddc6" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LogServer.Service/LoggerService/?wsdl" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="0dc3bac1-7006-4f0c-a255-51cbc4e128f5" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/LogServer.Service/LoggerService/?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
